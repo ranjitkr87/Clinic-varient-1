@@ -1,0 +1,6 @@
+{
+  "name": "Aarogya Family Clinic",
+  "description": "Multi-Specialty General Practice & Diagnostics clinic in Indiranagar, Bengaluru. Offering preventive care, diabetes management, child immunization, and on-site lab testing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
